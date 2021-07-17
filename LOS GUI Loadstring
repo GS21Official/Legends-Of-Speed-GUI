@@ -1,0 +1,5 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/GS21Official/Legends-Of-Speed-GUI/main/LOS%20GUI%20Script'))() 
+--[[
+Legends-Of-Speed-GUI
+Made by: GS21
+]]
